@@ -1,0 +1,12 @@
+canvas{
+    border: 5px solid grey;
+}
+.heading{
+    width: 100%;
+    font-size: 25px;
+    line-height:56px;
+}
+.note{
+    color: black;
+    font-size:15px ;
+}
